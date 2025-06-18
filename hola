@@ -1,1 +1,2 @@
 print("hola, bienvenido al mundo del versionado git")
+git clone <URL_DEL_REPOSITORIO>
